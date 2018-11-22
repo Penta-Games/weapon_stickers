@@ -1,0 +1,151 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "rifles",
+      "name": "Rifles",
+      "publisher": "FutureKing",
+      "tray_image_file": "machine.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "machine.webp",
+          "emojis": [""]
+
+        },
+        {
+          "image_file": "machinegun.webp",
+          "emojis": [""]
+
+        },
+        {
+          "image_file": "oldrifle.webp",
+          "emojis": [""]
+
+        },
+        {
+          "image_file": "shotgun.webp",
+          "emojis": [""]
+
+        },
+        {
+          "image_file": "sniper.webp",
+          "emojis": [""]
+
+        }
+
+
+      ]
+    },
+    {
+
+      "identifier": "pistols",
+      "name": "Pistols",
+      "publisher": "FutureKing",
+      "tray_image_file": "beretta.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "beretta.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "oldpistol.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "pistol.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "revolver.webp",
+          "emojis": [""]
+        }
+
+      ]
+
+    },
+    {
+
+      "identifier": "vehicles",
+      "name": "Vehicles",
+      "publisher": "FutureKing",
+      "tray_image_file": "tank.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "airplane.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "helicopter.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "jet.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "tank.webp",
+          "emojis": [""]
+        }
+
+
+      ]
+
+    },
+    {
+
+      "identifier": "other",
+      "name": "Other",
+      "publisher": "FutureKing",
+      "tray_image_file": "grenade.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "baseballbat.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "bomb.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "bombmushroom.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "cannon.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "crossbow.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "grenade.webp",
+          "emojis": [""]
+        }
+
+
+      ]
+
+    }
+
+
+  ]
+
+}
